@@ -1,5 +1,3 @@
-# test
-
+# Test and also Markdown format.
 My first repository on GitHub and to test
-
-Another line of testing
+Trying to master Markdown format.
